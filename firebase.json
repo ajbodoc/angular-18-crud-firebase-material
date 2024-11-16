@@ -1,1 +1,7 @@
-{}
+{
+  "site": "firengmat-797dc",
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
